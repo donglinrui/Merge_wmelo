@@ -8,4 +8,11 @@
 
 f0 cc 中换右上标
 
+a5 cc eb数字
+
+a7 重新开始按钮
+
+eb 游戏下界
+
 参考https://github.com/sannaha/sannaha.github.io
+
